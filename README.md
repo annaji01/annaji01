@@ -2,4 +2,4 @@
 - 👀 I’m interested in Learning new stuff
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on YouTube
-- 📫 How to reach me type King in google
+- 📫 How to reach me - Type King in google
